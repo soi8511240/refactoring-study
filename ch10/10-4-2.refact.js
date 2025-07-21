@@ -1,3 +1,7 @@
+/**
+ * 
+ */
+
 export function rating(voyage, history) {
   // 투자 등급
   const vpf = voyageProfitFactor(voyage, history); // 수익요인
