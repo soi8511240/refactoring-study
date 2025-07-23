@@ -34,3 +34,7 @@ function usd(value) {
     value: value,
   };
 }
+
+console.log(baseCharge(1))
+console.log(baseCharge(101))
+console.log(baseCharge(201))
